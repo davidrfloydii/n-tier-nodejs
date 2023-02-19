@@ -1,0 +1,20 @@
+{
+  "name": "n-tier-nodejs",
+  "version": "1.0.0",
+  "description": "NodeJs N-Tier Application Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidrfloydii/n-tier-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidrfloydii/n-tier-nodejs/issues"
+  },
+  "homepage": "https://github.com/davidrfloydii/n-tier-nodejs#readme"
+}
